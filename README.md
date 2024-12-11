@@ -6,6 +6,9 @@ High Accuracy: Achieved 96.9% classification accuracy.
 Innovative Architecture: Utilized spatial attention mechanisms as skip connections to enhance feature extraction and information flow.
 No data preprocessing was required by the model.
 
+# Dataset
+Publically available brain tumor MRI data available on figshare was used in this work. It contains 3 classes: meningioma, glioma and pituitary tumors.
+
 # Model Architecture
 The model leverages convolutional neural network (CNN) with Spatial Attention added as Skip Connections for better feature extraction.
 Dropouts were further utilised to apply regularization.
@@ -20,8 +23,7 @@ Loss Function: Sparse Categorical cross-entropy.
 Validation: 10% data used for validation checks to prevent overfitting.
 
 # Results
-Accuracy: 96.90% on the test dataset.
-Precision, Recall, F1-score: Detailed metrics available in results/metrics.txt.
+Accuracy: 96.90% on the test dataset.  Precision, Recall, F1-score: 
 ![Precision, Recall, F1-score](metric.png)
 
 # Pre-Print version of the paper can be accessed via:
