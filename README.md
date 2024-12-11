@@ -10,4 +10,6 @@ No data preprocessing was required by the model.
 The model leverages convolutional neural network (CNN) with Spatial Attention added as Skip Connections for better feature extraction.
 Dropouts were further utilised to apply regularization.
 
+Below is a visualization of the model architecture used in this project:
 
+![Model Architecture](assets/image.png)
