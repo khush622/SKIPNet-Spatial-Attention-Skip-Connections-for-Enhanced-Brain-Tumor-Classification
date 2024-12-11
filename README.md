@@ -12,4 +12,4 @@ Dropouts were further utilised to apply regularization.
 
 Below is a visualization of the model architecture used in this project:
 
-![Model Architecture](SKIPNet-Spatial-Attention-Skip-Connections-for-Enhanced-Brain-Tumor-Classification/image.png)
+![Model Architecture](image.png)
