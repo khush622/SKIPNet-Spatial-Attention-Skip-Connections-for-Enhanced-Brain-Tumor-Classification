@@ -22,6 +22,7 @@ Validation: 10% data used for validation checks to prevent overfitting.
 # Results
 Accuracy: 96.90% on the test dataset.
 Precision, Recall, F1-score: Detailed metrics available in results/metrics.txt.
+![Precision, Recall, F1-score](metric.png)
 
 # Pre-Print version of the paper can be accessed via:
 http://arxiv.org/abs/2412.07736
